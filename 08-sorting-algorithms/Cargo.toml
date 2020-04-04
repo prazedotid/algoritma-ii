@@ -1,5 +1,5 @@
 [package]
-name = "search"
+name = "sorting-algorithms"
 version = "0.1.0"
 authors = ["Galih Prastian <galihpras33@gmail.com>"]
 edition = "2018"
